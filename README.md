@@ -1,0 +1,1 @@
+This is a simple body mass index calculator developed using python. It takes height and weight as input and gives the body mass index as output which can be used to categorize persons as underweight, normal, overweight and obese.
